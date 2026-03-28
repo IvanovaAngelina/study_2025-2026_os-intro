@@ -51,7 +51,7 @@ date-format: "YYYY-MM-DD" # Example: 2025-09-06
 
 ## Выполнение 1 пункта
 
-![Создание файла abc1 и копирование в april и may](image/2.png){#fig-005 width=70%}
+![Создание файла abc1 и копирование в april и may](image/5.png){#fig-005 width=70%}
 
 ## Выполнение 1 пункта
 

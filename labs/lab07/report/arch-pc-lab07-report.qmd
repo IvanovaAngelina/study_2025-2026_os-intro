@@ -42,7 +42,7 @@ license: "CC BY"
 
 ![Вывод 3 первых строчек file1 с помощью head и вывод 3 последних строчек file1](image/4.png){#fig-004 width=70%}
 
-![Создание файла abc1 и копирование в april и may](image/2.png){#fig-005 width=70%}
+![Создание файла abc1 и копирование в april и may](image/5.png){#fig-005 width=70%}
 
 ![Копирование файлов april и may в директорию monthly](image/6.png){#fig-006 width=70%}
 
